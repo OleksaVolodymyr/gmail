@@ -6,9 +6,9 @@ public class GmailInboxBO {
 
 	public boolean isUndo() {
 		GmailInboxPage gmailInboxPage = new GmailInboxPage();
-		gmailInboxPage.selectThreeCheckbox();
+		gmailInboxPage.selectCheckbox(3);
 		gmailInboxPage.deleteSelectedMessage();
 		gmailInboxPage.undoDeleteOperation();
-		return true;
+		return gmailInboxPage.isMessageRestored();
 	}
 }

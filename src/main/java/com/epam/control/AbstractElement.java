@@ -2,7 +2,7 @@ package com.epam.control;
 
 import org.openqa.selenium.WebElement;
 
-public abstract class AbstractElement implements IElement {
+public abstract class AbstractElement{
 
 	protected WebElement webElement;
 

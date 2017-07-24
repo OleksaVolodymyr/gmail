@@ -9,23 +9,21 @@ import java.util.List;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.pagefactory.ElementLocator;
 
-import com.epam.control.IElement;
-
-public class LocatingCustomElementListHandler implements InvocationHandler {
+public class LocatingCustomElementListHandler<T> implements InvocationHandler {
 	private final ElementLocator locator;
-	private final Class<IElement> clazz;
+	private final Class<?> clazz;
 
-	public LocatingCustomElementListHandler(ElementLocator locator, Class<IElement> clazz) {
+	public LocatingCustomElementListHandler(ElementLocator locator, Class<?> clazz) {
 		this.locator = locator;
 		this.clazz = clazz;
 	}
 
+	@SuppressWarnings("unchecked")
 	public Object invoke(Object object, Method method, Object[] objects) throws Throwable {
 		List<WebElement> elements = locator.findElements();
-		List<IElement> customs = new ArrayList<IElement>();
-
+		List<T> customs = new ArrayList<>();
 		for (WebElement element : elements) {
-			customs.add(WrapperFactory.createInstance(clazz, element));
+			customs.add((T) clazz.getConstructor(WebElement.class).newInstance(element));
 		}
 		try {
 			return method.invoke(customs, objects);

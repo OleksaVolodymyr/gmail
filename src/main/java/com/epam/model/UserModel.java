@@ -2,6 +2,18 @@ package com.epam.model;
 
 public class UserModel {
 
+	private String login;
+	private String password;
+
+	public UserModel() {
+
+	}
+
+	public UserModel(String login, String password) {
+		this.login = login;
+		this.password = password;
+	}
+
 	public String getLogin() {
 		return this.login;
 	}
@@ -15,18 +27,6 @@ public class UserModel {
 	}
 
 	public void setPassword(String password) {
-		this.password = password;
-	}
-
-	private String login;
-	private String password;
-
-	public UserModel() {
-
-	}
-
-	public UserModel(String login, String password) {
-		this.login = login;
 		this.password = password;
 	}
 
