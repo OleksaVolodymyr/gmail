@@ -6,7 +6,7 @@ import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement(name = "users")
-public class Users {
+public class UsersModel {
 	private List<UserModel> users = null;
 
 	@XmlElement(name = "user")

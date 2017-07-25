@@ -1,8 +1,11 @@
 package com.epam.model;
 
-public class UserModel {
+import com.epam.anotation.CSVElement;
 
+public class UserModel {
+	@CSVElement
 	private String login;
+	@CSVElement
 	private String password;
 
 	public UserModel() {
