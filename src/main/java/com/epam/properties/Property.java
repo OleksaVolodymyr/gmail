@@ -1,9 +1,10 @@
 package com.epam.properties;
 
+import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.Properties;
 
 public class Property {
@@ -22,9 +23,10 @@ public class Property {
 
 	public String getPropertiesValue(String key) {
 		Properties prop = null;
-		try (InputStream in = new FileInputStream("resources/config.properties")) {
+		try (BufferedReader is = new BufferedReader(
+				new InputStreamReader(new FileInputStream("resources/config.properties"), "UTF8"));) {
 			prop = new Properties();
-			prop.load(in);
+			prop.load(is);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {

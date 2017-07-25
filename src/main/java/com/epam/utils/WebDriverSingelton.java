@@ -2,31 +2,39 @@ package com.epam.utils;
 
 import java.util.concurrent.TimeUnit;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.epam.properties.Property;
 
 public class WebDriverSingelton {
+	private Logger LOG = Logger.getLogger(WebDriverSingelton.class);
+	private WebDriver driver;
+	private Property prop = Property.getInstance();
+	private static ThreadLocal<WebDriverSingelton> pool = new ThreadLocal<>();
 
-	private static WebDriver driver;
-	private static Property prop = Property.getInstance();
-
-	private WebDriverSingelton() {
-
+	public WebDriverSingelton() {
+		LOG.info("create webdriver, thread id : " + Thread.currentThread().getId());
+		System.setProperty(prop.getPropertiesValue("driver"), prop.getPropertiesValue("driverPath"));
+		driver = new ChromeDriver();
+		driver.manage().timeouts().implicitlyWait(70, TimeUnit.SECONDS);
+		goToURL(prop.getPropertiesValue("url"));
 	}
 
-	public static WebDriver getInstance() {
-		if (driver == null) {
-			System.setProperty(prop.getPropertiesValue("driver"), prop.getPropertiesValue("driverPath"));
-			driver = new ChromeDriver();
-			driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
-			goToURL(prop.getPropertiesValue("url"));
+	public static synchronized WebDriver getInstance() {
+		if (pool.get() == null) {
+			pool.set(new WebDriverSingelton());
 		}
-		return driver;
+		return pool.get().getDriver();
 	}
 
-	public static void goToURL(String url) {
-		getInstance().navigate().to(url);
+	private void goToURL(String url) {
+		LOG.info("go to url: " + url);
+		getDriver().navigate().to(url);
+	}
+
+	public WebDriver getDriver() {
+		return this.driver;
 	}
 }

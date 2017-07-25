@@ -1,0 +1,1432 @@
+2017-07-25 20:26:07 INFO  WebDriverSingelton:18 - create webdriver 14
+2017-07-25 20:26:10 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:26:12 INFO  WebDriverSingelton:18 - create webdriver 12
+2017-07-25 20:26:12 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:26:12 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:12 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:12 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:26:12 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:26:14 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:26:16 INFO  WebDriverSingelton:18 - create webdriver 13
+2017-07-25 20:26:16 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:26:16 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:16 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:16 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:26:16 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:26:18 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:26:19 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:19 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:26:19 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:26:19 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 20:26:20 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:26:20 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:26:20 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:26:39 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:26:39 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:26:40 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:26:41 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:26:42 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:26:42 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:26:43 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:26:43 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:26:44 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:26:45 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:26:47 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:31:54 INFO  WebDriverSingelton:18 - create webdriver 12
+2017-07-25 20:31:57 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:31:58 INFO  WebDriverSingelton:18 - create webdriver 13
+2017-07-25 20:31:58 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:31:58 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:31:58 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:31:58 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:31:58 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:32:01 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:32:02 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:32:02 INFO  WebDriverSingelton:18 - create webdriver 14
+2017-07-25 20:32:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:02 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:32:02 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:32:05 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:32:06 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:32:06 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:32:06 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 20:32:06 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 20:32:07 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:32:07 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:32:08 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:32:26 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:32:27 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:32:28 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:32:29 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:32:30 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:32:44 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:32:45 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:32:46 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:32:47 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:32:48 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:34:48 INFO  WebDriverSingelton:18 - create webdriver 13
+2017-07-25 20:34:51 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:34:53 INFO  WebDriverSingelton:18 - create webdriver 14
+2017-07-25 20:34:53 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:34:53 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:34:53 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:34:53 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:34:53 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:34:55 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:34:57 INFO  WebDriverSingelton:18 - create webdriver 12
+2017-07-25 20:34:57 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:34:57 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:34:57 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:34:57 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:34:57 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:34:59 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:35:01 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:35:01 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:35:01 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 20:35:01 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 20:35:01 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:35:02 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:35:02 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:35:19 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:35:19 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:35:20 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:35:21 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:35:21 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:35:21 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:35:22 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:35:22 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:35:22 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:35:22 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:35:22 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:35:23 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:35:24 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:35:24 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:35:27 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:36:02 INFO  WebDriverSingelton:18 - create webdriver 12
+2017-07-25 20:36:05 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:36:07 INFO  WebDriverSingelton:18 - create webdriver 13
+2017-07-25 20:36:07 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:36:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:07 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:36:07 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:36:10 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:36:11 INFO  WebDriverSingelton:18 - create webdriver 14
+2017-07-25 20:36:11 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:36:11 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:11 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:11 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:36:11 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:36:14 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:36:15 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:36:15 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:36:15 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 20:36:15 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 20:36:16 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:36:16 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:36:16 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:36:33 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:36:35 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:36:35 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:36:36 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:36:37 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:36:38 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:36:39 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:36:39 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:37:32 INFO  WebDriverSingelton:18 - create webdriver 12
+2017-07-25 20:37:35 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:37:37 INFO  WebDriverSingelton:18 - create webdriver 13
+2017-07-25 20:37:37 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:37:37 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:37 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:37 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:37:37 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:37:39 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:37:40 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:37:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:40 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:37:40 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:37:40 INFO  WebDriverSingelton:18 - create webdriver 14
+2017-07-25 20:37:43 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:44 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:37:44 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:37:44 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 20:37:44 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 20:37:45 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:37:45 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:37:45 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:38:02 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:38:03 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:38:05 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:38:06 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:38:06 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:38:06 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:38:06 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:38:07 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:38:07 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:38:08 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:38:09 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:38:09 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:38:41 INFO  WebDriverSingelton:18 - create webdriver 12
+2017-07-25 20:38:45 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:38:46 INFO  WebDriverSingelton:18 - create webdriver 15
+2017-07-25 20:38:46 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:38:46 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:38:46 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:38:46 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:38:46 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:38:48 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:38:50 INFO  WebDriverSingelton:18 - create webdriver 13
+2017-07-25 20:38:50 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:38:50 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:38:50 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:38:50 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:38:50 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:38:52 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:38:54 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:38:54 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:38:54 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:38:54 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:38:54 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:38:54 INFO  WebDriverSingelton:18 - create webdriver 14
+2017-07-25 20:38:54 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:38:54 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:38:54 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:38:54 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:38:54 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:38:54 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:38:54 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 20:38:55 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:38:56 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:38:58 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:38:58 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:38:58 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:38:58 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:38:58 INFO  WebDriverSingelton:18 - create webdriver 16
+2017-07-25 20:38:58 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:39:00 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:39:02 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr33 and submit
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:39:02 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr34 and submit
+2017-07-25 20:39:02 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:39:02 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:39:02 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 20:39:03 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:39:03 INFO  GmailLoginPage:46 - Enter password : taepamgr33 and submit
+2017-07-25 20:39:03 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:39:04 INFO  GmailLoginPage:46 - Enter password : taepamgr34 and submit
+2017-07-25 20:39:42 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:39:42 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:39:43 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:39:48 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:39:52 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:39:56 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:39:57 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:39:58 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:39:58 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:39:59 INFO  GmailInboxPage:67 - click message cheakBox
+2017-07-25 20:39:59 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:40:00 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:40:00 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:40:00 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:40:01 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:40:01 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:40:01 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:40:02 INFO  GmailInboxPage:77 - click delete button
+2017-07-25 20:40:02 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:40:03 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:58:09 INFO  WebDriverSingelton:18 - create webdriver 12
+2017-07-25 20:58:12 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:58:14 INFO  WebDriverSingelton:18 - create webdriver 13
+2017-07-25 20:58:14 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:58:14 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:14 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:14 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:58:14 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:58:16 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:58:18 INFO  WebDriverSingelton:18 - create webdriver 14
+2017-07-25 20:58:18 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:58:18 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:18 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:18 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:58:18 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:58:20 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:58:22 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:58:22 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:58:22 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:58:22 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 20:58:23 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:58:23 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:58:23 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:58:38 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:58:40 INFO  GmailInboxPage:68 - click message cheakBox
+2017-07-25 20:58:40 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:58:41 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:58:41 INFO  GmailInboxPage:78 - click delete button
+2017-07-25 20:58:42 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:58:42 INFO  GmailInboxPage:68 - click message cheakBox
+2017-07-25 20:58:44 INFO  GmailInboxPage:68 - click message cheakBox
+2017-07-25 20:58:44 INFO  GmailInboxPage:78 - click delete button
+2017-07-25 20:58:44 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:58:46 INFO  GmailInboxPage:78 - click delete button
+2017-07-25 20:58:46 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:59:07 INFO  WebDriverSingelton:18 - create webdriver 12
+2017-07-25 20:59:10 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:59:12 INFO  WebDriverSingelton:18 - create webdriver 13
+2017-07-25 20:59:12 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:59:12 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:12 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:12 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:59:12 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:59:14 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:59:16 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:16 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:59:16 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 20:59:16 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:59:16 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 20:59:29 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:59:30 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 20:59:51 INFO  WebDriverSingelton:18 - create webdriver 12
+2017-07-25 20:59:54 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:59:56 INFO  WebDriverSingelton:18 - create webdriver 13
+2017-07-25 20:59:56 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:59:56 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:56 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:56 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:59:56 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:59:58 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:59:59 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 20:59:59 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 20:59:59 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:00:00 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:00:00 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:00:13 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:00:13 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:00:44 INFO  WebDriverSingelton:18 - create webdriver 12
+2017-07-25 21:00:47 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:00:49 INFO  WebDriverSingelton:18 - create webdriver 13
+2017-07-25 21:00:49 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:00:49 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:00:49 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:00:49 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:00:49 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:00:51 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:00:52 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:00:52 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:00:52 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:00:53 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:00:53 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:01:06 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:01:07 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:01:07 INFO  GmailInboxPage:68 - click message cheakBox
+2017-07-25 21:01:08 INFO  GmailInboxPage:68 - click message cheakBox
+2017-07-25 21:01:08 INFO  GmailInboxPage:78 - click delete button
+2017-07-25 21:01:08 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:01:09 INFO  GmailInboxPage:78 - click delete button
+2017-07-25 21:01:09 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:01:10 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:01:13 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:06:02 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:06:05 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:06:07 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:06:07 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:06:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:06:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:06:07 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:06:07 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:06:09 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:06:11 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:06:11 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:06:11 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:06:11 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:06:11 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:06:25 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:06:26 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:06:26 INFO  GmailInboxPage:74 - click message cheakBox
+2017-07-25 21:06:27 INFO  GmailInboxPage:84 - click delete button
+2017-07-25 21:06:27 INFO  GmailInboxPage:74 - click message cheakBox
+2017-07-25 21:06:27 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:06:28 INFO  GmailInboxPage:84 - click delete button
+2017-07-25 21:06:28 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:06:30 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:06:32 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:07:15 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:07:18 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:07:20 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:07:20 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:07:20 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:07:20 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:07:20 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:07:20 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:07:22 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:07:24 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:07:24 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:07:24 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:07:25 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:07:25 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:07:42 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:07:44 INFO  GmailInboxPage:76 - click message cheakBox
+2017-07-25 21:07:44 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:07:45 INFO  GmailInboxPage:86 - click delete button
+2017-07-25 21:07:45 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:07:46 INFO  GmailInboxPage:76 - click message cheakBox
+2017-07-25 21:07:47 INFO  GmailInboxPage:86 - click delete button
+2017-07-25 21:07:47 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:07:49 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:07:51 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:08:32 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:08:36 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:08:38 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:08:38 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:08:38 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:08:38 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:08:38 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:08:38 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:08:40 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:08:43 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:08:43 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:08:43 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:08:45 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:08:45 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:09:04 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:09:06 INFO  GmailInboxPage:81 - click message cheakBox
+2017-07-25 21:09:08 INFO  GmailInboxPage:91 - click delete button
+2017-07-25 21:09:08 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:09:08 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:09:11 INFO  GmailInboxPage:81 - click message cheakBox
+2017-07-25 21:09:12 INFO  GmailInboxPage:91 - click delete button
+2017-07-25 21:09:12 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:09:14 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:09:16 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:12:00 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:12:04 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:12:05 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:12:06 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:12:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:12:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:12:06 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:12:06 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:12:08 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:12:10 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:12:10 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:12:10 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:12:10 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:12:10 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:12:21 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:12:24 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:12:25 INFO  GmailInboxPage:68 - click message cheakBox
+2017-07-25 21:12:25 INFO  GmailInboxPage:68 - click message cheakBox
+2017-07-25 21:12:26 INFO  GmailInboxPage:78 - click delete button
+2017-07-25 21:12:26 INFO  GmailInboxPage:78 - click delete button
+2017-07-25 21:12:27 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:12:27 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:12:28 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:12:31 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:13:59 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:14:02 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:14:04 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:14:04 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:14:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:14:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:14:04 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:14:04 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:14:06 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:14:07 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:14:07 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:14:07 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:14:08 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:14:08 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:14:20 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:14:22 INFO  GmailInboxPage:68 - click message cheakBox
+2017-07-25 21:14:23 INFO  GmailInboxPage:78 - click delete button
+2017-07-25 21:14:24 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:14:25 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:14:26 INFO  GmailInboxPage:68 - click message cheakBox
+2017-07-25 21:14:26 INFO  GmailInboxPage:78 - click delete button
+2017-07-25 21:14:27 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:14:32 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:16:55 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:16:59 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:17:00 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:17:00 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:17:00 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:17:00 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:17:00 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:17:00 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:17:03 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:17:04 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:17:04 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:17:04 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:17:05 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:17:05 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:17:17 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:17:19 INFO  GmailInboxPage:68 - click message cheakBox
+2017-07-25 21:17:20 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:17:20 INFO  GmailInboxPage:78 - click delete button
+2017-07-25 21:17:20 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:17:21 INFO  GmailInboxPage:68 - click message cheakBox
+2017-07-25 21:17:21 INFO  GmailInboxPage:78 - click delete button
+2017-07-25 21:17:21 INFO  GmailInboxPage:43 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:19:35 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:19:38 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:19:40 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:19:40 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:19:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:19:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:19:40 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:19:40 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:19:42 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:19:44 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:19:44 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:19:44 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:19:45 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:19:45 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:19:59 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:20:00 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:20:01 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:20:01 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:20:01 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:20:02 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:20:03 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:20:04 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:20:43 INFO  WebDriverSingelton:18 - create webdriver, thread id : 14
+2017-07-25 21:20:47 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:20:48 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:20:48 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:20:48 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:20:48 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:20:48 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:20:48 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:20:51 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:20:52 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:20:52 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:20:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:20:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:20:52 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:20:52 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:20:54 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:20:56 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:20:56 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:20:56 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:20:56 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:20:56 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:20:56 INFO  WebDriverSingelton:18 - create webdriver, thread id : 15
+2017-07-25 21:20:58 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:21:00 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:21:00 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:00 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:00 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:21:00 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:21:00 INFO  WebDriverSingelton:18 - create webdriver, thread id : 16
+2017-07-25 21:21:00 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:21:00 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:00 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:21:00 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:00 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:00 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:21:00 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr33 and submit
+2017-07-25 21:21:00 INFO  GmailLoginPage:46 - Enter password : taepamgr33 and submit
+2017-07-25 21:21:02 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:21:04 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 21:21:04 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr34 and submit
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:21:04 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:21:04 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:21:04 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:21:05 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:21:06 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:21:06 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:21:06 INFO  GmailLoginPage:46 - Enter password : taepamgr34 and submit
+2017-07-25 21:21:42 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:21:47 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:21:48 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:21:52 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:21:52 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:21:53 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:21:53 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:21:54 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:21:54 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:21:54 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:21:54 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:21:55 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:22:48 INFO  WebDriverSingelton:18 - create webdriver, thread id : 16
+2017-07-25 21:22:52 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:22:53 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:22:53 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:22:53 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:22:53 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:22:53 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:22:53 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:22:55 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:22:57 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:22:57 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:22:57 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:22:57 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:22:57 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:22:57 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:22:59 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:23:01 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:23:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:01 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:23:01 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:23:01 INFO  WebDriverSingelton:18 - create webdriver, thread id : 14
+2017-07-25 21:23:01 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:23:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:01 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:23:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:01 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:01 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:23:01 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:23:02 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:23:04 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:23:05 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:23:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:06 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:23:06 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:23:06 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:23:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:06 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:23:06 INFO  WebDriverSingelton:18 - create webdriver, thread id : 15
+2017-07-25 21:23:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:06 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:06 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:23:06 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 21:23:06 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:23:08 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:23:10 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr34 and submit
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:23:10 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:23:10 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:23:10 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr33 and submit
+2017-07-25 21:23:11 INFO  GmailLoginPage:46 - Enter password : taepamgr34 and submit
+2017-07-25 21:23:12 INFO  GmailLoginPage:46 - Enter password : taepamgr33 and submit
+2017-07-25 21:23:13 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:23:46 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:23:53 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:23:53 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:23:54 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:23:57 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:24:00 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:24:00 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:24:01 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:24:02 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:24:02 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:24:03 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:24:03 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:24:03 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:24:03 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:24:04 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:24:04 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:24:04 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:24:05 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:24:05 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:24:06 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:27:19 INFO  WebDriverSingelton:18 - create webdriver, thread id : 16
+2017-07-25 21:27:22 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:27:24 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:27:24 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:27:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:24 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:27:24 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:27:26 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:27:28 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:27:28 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:27:28 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:28 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:28 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:27:28 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:27:30 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:27:32 INFO  WebDriverSingelton:18 - create webdriver, thread id : 14
+2017-07-25 21:27:32 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:27:32 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:32 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:32 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:27:32 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:27:34 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:27:36 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:27:36 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:36 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:36 INFO  WebDriverSingelton:18 - create webdriver, thread id : 15
+2017-07-25 21:27:36 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:27:36 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:27:38 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:27:39 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr33 and submit
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:27:39 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr34 and submit
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:27:39 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:27:39 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:27:39 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:27:41 INFO  GmailLoginPage:46 - Enter password : taepamgr34 and submit
+2017-07-25 21:27:41 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:27:41 INFO  GmailLoginPage:46 - Enter password : taepamgr33 and submit
+2017-07-25 21:27:42 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:27:43 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:28:21 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:28:21 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:28:23 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:28:23 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:28:26 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:28:27 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:28:29 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:28:31 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:28:31 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:28:32 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:28:32 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:28:33 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:28:33 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:28:33 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:28:33 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:28:34 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:28:35 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:28:35 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:28:36 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:28:36 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:29:46 INFO  WebDriverSingelton:18 - create webdriver, thread id : 14
+2017-07-25 21:29:50 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:29:52 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:29:52 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:29:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:29:52 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:29:52 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:29:52 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:29:54 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:29:56 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:29:56 INFO  WebDriverSingelton:18 - create webdriver, thread id : 15
+2017-07-25 21:29:56 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:29:56 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:29:56 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:29:56 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:29:58 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:30:00 INFO  WebDriverSingelton:18 - create webdriver, thread id : 16
+2017-07-25 21:30:00 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:30:00 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:00 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:00 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:30:00 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:30:02 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:30:04 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:30:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:04 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:30:04 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:04 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:30:04 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:30:06 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:30:08 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr34 and submit
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:30:08 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:30:08 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:30:08 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:30:08 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr33 and submit
+2017-07-25 21:30:09 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:30:10 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:30:10 INFO  GmailLoginPage:46 - Enter password : taepamgr33 and submit
+2017-07-25 21:30:10 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:30:11 INFO  GmailLoginPage:46 - Enter password : taepamgr34 and submit
+2017-07-25 21:30:46 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:30:49 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:30:50 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:30:51 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:30:56 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:30:56 INFO  GmailInboxPage:70 - click message cheakBox
+2017-07-25 21:30:57 INFO  GmailInboxPage:70 - click message cheakBox
+2017-07-25 21:30:59 INFO  GmailInboxPage:80 - click delete button
+2017-07-25 21:31:00 INFO  GmailInboxPage:80 - click delete button
+2017-07-25 21:31:00 INFO  GmailInboxPage:70 - click message cheakBox
+2017-07-25 21:31:00 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:31:00 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:31:02 INFO  GmailInboxPage:80 - click delete button
+2017-07-25 21:31:02 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:31:02 INFO  GmailInboxPage:70 - click message cheakBox
+2017-07-25 21:31:03 INFO  GmailInboxPage:80 - click delete button
+2017-07-25 21:31:04 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:32:19 INFO  WebDriverSingelton:18 - create webdriver, thread id : 16
+2017-07-25 21:32:22 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:32:24 INFO  WebDriverSingelton:18 - create webdriver, thread id : 12
+2017-07-25 21:32:24 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:32:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:24 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:24 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:32:24 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:32:26 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:32:28 INFO  WebDriverSingelton:18 - create webdriver, thread id : 13
+2017-07-25 21:32:28 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:32:28 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:28 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:28 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:32:28 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:32:30 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:32:32 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:32:32 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:32 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:32 INFO  WebDriverSingelton:18 - create webdriver, thread id : 15
+2017-07-25 21:32:32 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:32:32 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:32:34 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:32:36 INFO  WebDriverSingelton:18 - create webdriver, thread id : 14
+2017-07-25 21:32:36 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:32:36 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:36 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:36 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:32:36 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:32:38 INFO  WebDriverSingelton:33 - go to url: https://mail.google.com/mail/
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:71 - create list element CheckBox
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:71 - create list element TableRow
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:32:40 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr3 and submit
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element TextInput
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:32:40 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr31 and submit
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr32 and submit
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:32:40 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr33 and submit
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Button
+2017-07-25 21:32:40 INFO  ExtendedFieldDecorator:62 - create element Label
+2017-07-25 21:32:40 INFO  GmailLoginPage:40 - Enter login : smtp.epam.gr34 and submit
+2017-07-25 21:32:41 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:32:41 INFO  GmailLoginPage:46 - Enter password : taepamgr34 and submit
+2017-07-25 21:32:41 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:32:42 INFO  GmailLoginPage:46 - Enter password : taepamgr3 and submit
+2017-07-25 21:32:43 INFO  GmailLoginPage:46 - Enter password : taepamgr33 and submit
+2017-07-25 21:33:14 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:33:18 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:33:23 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:33:24 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:33:26 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:33:27 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:33:31 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:33:33 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:33:34 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:33:46 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:33:46 INFO  GmailInboxPage:69 - click message cheakBox
+2017-07-25 21:33:47 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+
+2017-07-25 21:33:48 INFO  GmailInboxPage:79 - click delete button
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:35524: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:35524
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:35524: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:35524
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:35524: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:35524
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:27384: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:27384
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:27384: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:27384
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:27384: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:27384
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:35524: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:35524
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:35524: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:35524
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:35524: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:35524
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:27384: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:27384
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:27384: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:27384
+2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:27384: Permission denied: connect
+2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:27384
+2017-07-25 21:33:49 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+

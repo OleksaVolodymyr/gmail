@@ -8,6 +8,7 @@ import java.lang.reflect.Proxy;
 import java.lang.reflect.Type;
 import java.util.List;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.SearchContext;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindAll;
@@ -17,6 +18,7 @@ import org.openqa.selenium.support.pagefactory.DefaultFieldDecorator;
 import org.openqa.selenium.support.pagefactory.ElementLocator;
 
 public class ExtendedFieldDecorator extends DefaultFieldDecorator {
+	private static final Logger LOG = Logger.getLogger(ExtendedFieldDecorator.class);
 
 	public ExtendedFieldDecorator(SearchContext searchContext) {
 		super(new DefaultElementLocatorFactory(searchContext));
@@ -57,6 +59,7 @@ public class ExtendedFieldDecorator extends DefaultFieldDecorator {
 			NoSuchMethodException, SecurityException {
 		WebElement proxy = proxyForLocator(loader, locator);
 		Class<?> clazz = field.getType();
+		LOG.info("create element " + clazz.getSimpleName());
 		T element = (T) clazz.getConstructor(WebElement.class).newInstance(proxy);
 		return element;
 	}
@@ -65,6 +68,7 @@ public class ExtendedFieldDecorator extends DefaultFieldDecorator {
 	protected <T> List<T> proxyForListLocator(ClassLoader loader, ElementLocator locator, Field field) {
 		Type typelist = field.getGenericType();
 		Class<?> clazz = (Class<?>) ((ParameterizedType) typelist).getActualTypeArguments()[0];
+		LOG.info("create list element " + clazz.getSimpleName());
 		InvocationHandler handler = new LocatingCustomElementListHandler<>(locator, clazz);
 		List<T> proxy = (List<T>) Proxy.newProxyInstance(loader, new Class[] { List.class }, handler);
 		return proxy;

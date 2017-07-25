@@ -9,6 +9,6 @@ public class GmailLoginBO {
 		GmailLoginPage gmailLoginPage = new GmailLoginPage();
 		gmailLoginPage.enterLoginAndSubmit(user.getLogin());
 		gmailLoginPage.enterPasswordAndSubmit(user.getPassword());
-		return gmailLoginPage.isLogged("smtp.epam.gr3@gmail.com");
+		return gmailLoginPage.isLogged(user.getLogin() + "@gmail.com");
 	}
 }
