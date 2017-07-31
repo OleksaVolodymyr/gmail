@@ -1429,5 +1429,9 @@
 2017-07-25 21:33:48 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:27384: Permission denied: connect
 2017-07-25 21:33:48 INFO  RetryExec:113 - Retrying request to {}->http://localhost:27384
 2017-07-25 21:33:49 INFO  GmailInboxPage:44 - find 3 message using template : MessageModel [fromWho=Володимир Олекса, subject=TestMessage, message=- Test message for selenium tests]
+<<<<<<< HEAD
 
 2017-07-31 11:30:13 INFO  WebDriverSingelton:? - create webdriver, thread id : 15
+=======
+
+>>>>>>> faa2e69c9d394942576889f588433aac5413dff5
