@@ -66,7 +66,7 @@ public class GmailInboxPage extends PageObject {
 	}
 
 	public void selectMessage() {
-		LOG.info("click message cheakBox");
+		LOG.info("click message checkBox");
 		for (TableRow selected : selectedMessage) {
 			CheckBox checkBox = new CheckBox(selected.findElement(By.xpath(".//div[@class='T-Jo-auh']")));
 			if (!checkBox.isSelected()) {

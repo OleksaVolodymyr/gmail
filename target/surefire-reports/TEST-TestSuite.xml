@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="6.869" tests="10" errors="0" skipped="0" failures="10">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="9"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Program Files (x86)\Maven\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Helsinki"/>
+    <property name="maven.conf" value="C:\Program Files (x86)\Maven\bin\../conf"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="9"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-9.0.1\bin"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="maven.home" value="C:\Program Files (x86)\Maven\bin\.."/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Oleksa_Volodymyr"/>
+    <property name="user.language" value="en"/>
+    <property name="sun.stderr.encoding" value="cp866"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-9.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="sun.stdout.encoding" value="cp866"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="9.0.1+11"/>
+    <property name="user.name" value="Volodymyr_Oleksa"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\OLEKSA~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="9.0.1"/>
+    <property name="user.dir" value="D:\WorkSpace\gmail"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\WorkSpace\gmail"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-9.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Oleksa_Volodymyr\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\Oleksa_Volodymyr\AppData\Roaming\npm;C:\Program Files (x86)\Maven\bin;C:\Program Files\Java\jdk-9.0.1\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="9.0.1+11"/>
+    <property name="classworlds.conf" value="C:\Program Files (x86)\Maven\bin\..\bin\m2.conf"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="library.jansi.path" value="C:\Program Files (x86)\Maven\bin\..\lib\jansi-native"/>
+    <property name="java.class.version" value="53.0"/>
+  </properties>
+  <testcase name="test" classname="com.epam.lab.gmail.AppTest" time="1.118">
+    <failure message="unknown error: cannot find Chrome binary&#10;  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 69 milliseconds&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;EPUALVIW1030&apos;, ip: &apos;10.25.13.158&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;9.0.1&apos;&#10;Driver info: driver.version: ChromeDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+unknown error: cannot find Chrome binary
+  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 69 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'EPUALVIW1030', ip: '10.25.13.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: ChromeDriver
+	at com.epam.lab.gmail.AppTest.test(AppTest.java:35)
+</failure>
+    <system-out><![CDATA[INFO com.epam.utils.WebDriverSingelton: create webdriver, thread id : 17
+INFO com.epam.utils.WebDriverSingelton: create webdriver, thread id : 19
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41) on port 44797
+Only local connections are allowed.
+]]></system-err>
+  </testcase>
+  <testcase name="test" classname="com.epam.lab.gmail.AppTest" time="1.702">
+    <failure message="unknown error: cannot find Chrome binary&#10;  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 35 milliseconds&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;EPUALVIW1030&apos;, ip: &apos;10.25.13.158&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;9.0.1&apos;&#10;Driver info: driver.version: ChromeDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+unknown error: cannot find Chrome binary
+  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 35 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'EPUALVIW1030', ip: '10.25.13.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: ChromeDriver
+	at com.epam.lab.gmail.AppTest.test(AppTest.java:35)
+</failure>
+    <system-err><![CDATA[Starting ChromeDriver 2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41) on port 13225
+Only local connections are allowed.
+]]></system-err>
+  </testcase>
+  <testcase name="test" classname="com.epam.lab.gmail.AppTest" time="2.28">
+    <failure message="unknown error: cannot find Chrome binary&#10;  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 16 milliseconds&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;EPUALVIW1030&apos;, ip: &apos;10.25.13.158&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;9.0.1&apos;&#10;Driver info: driver.version: ChromeDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+unknown error: cannot find Chrome binary
+  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'EPUALVIW1030', ip: '10.25.13.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: ChromeDriver
+	at com.epam.lab.gmail.AppTest.test(AppTest.java:35)
+</failure>
+    <system-out><![CDATA[INFO com.epam.utils.WebDriverSingelton: create webdriver, thread id : 16
+INFO com.epam.utils.WebDriverSingelton: create webdriver, thread id : 18
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41) on port 35550
+Only local connections are allowed.
+]]></system-err>
+  </testcase>
+  <testcase name="test" classname="com.epam.lab.gmail.AppTest" time="2.85">
+    <failure message="unknown error: cannot find Chrome binary&#10;  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 16 milliseconds&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;EPUALVIW1030&apos;, ip: &apos;10.25.13.158&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;9.0.1&apos;&#10;Driver info: driver.version: ChromeDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+unknown error: cannot find Chrome binary
+  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'EPUALVIW1030', ip: '10.25.13.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: ChromeDriver
+	at com.epam.lab.gmail.AppTest.test(AppTest.java:35)
+</failure>
+    <system-out><![CDATA[INFO com.epam.utils.WebDriverSingelton: create webdriver, thread id : 15
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41) on port 4728
+Only local connections are allowed.
+]]></system-err>
+  </testcase>
+  <testcase name="test" classname="com.epam.lab.gmail.AppTest" time="3.403">
+    <failure message="unknown error: cannot find Chrome binary&#10;  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 12 milliseconds&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;EPUALVIW1030&apos;, ip: &apos;10.25.13.158&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;9.0.1&apos;&#10;Driver info: driver.version: ChromeDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+unknown error: cannot find Chrome binary
+  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'EPUALVIW1030', ip: '10.25.13.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: ChromeDriver
+	at com.epam.lab.gmail.AppTest.test(AppTest.java:35)
+</failure>
+    <system-out><![CDATA[INFO com.epam.utils.WebDriverSingelton: create webdriver, thread id : 18
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41) on port 39079
+Only local connections are allowed.
+]]></system-err>
+  </testcase>
+  <testcase name="close" classname="com.epam.lab.gmail.AppTest" time="3.982">
+    <failure message="unknown error: cannot find Chrome binary&#10;  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 15 milliseconds&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;EPUALVIW1030&apos;, ip: &apos;10.25.13.158&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;9.0.1&apos;&#10;Driver info: driver.version: ChromeDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+unknown error: cannot find Chrome binary
+  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'EPUALVIW1030', ip: '10.25.13.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: ChromeDriver
+	at com.epam.lab.gmail.AppTest.close(AppTest.java:65)
+</failure>
+    <system-out><![CDATA[INFO com.epam.utils.WebDriverSingelton: create webdriver, thread id : 16
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41) on port 37744
+Only local connections are allowed.
+]]></system-err>
+  </testcase>
+  <testcase name="close" classname="com.epam.lab.gmail.AppTest" time="4.556">
+    <failure message="unknown error: cannot find Chrome binary&#10;  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 23 milliseconds&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;EPUALVIW1030&apos;, ip: &apos;10.25.13.158&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;9.0.1&apos;&#10;Driver info: driver.version: ChromeDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+unknown error: cannot find Chrome binary
+  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'EPUALVIW1030', ip: '10.25.13.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: ChromeDriver
+	at com.epam.lab.gmail.AppTest.close(AppTest.java:65)
+</failure>
+    <system-out><![CDATA[INFO com.epam.utils.WebDriverSingelton: create webdriver, thread id : 19
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41) on port 45116
+Only local connections are allowed.
+]]></system-err>
+  </testcase>
+  <testcase name="close" classname="com.epam.lab.gmail.AppTest" time="5.136">
+    <failure message="unknown error: cannot find Chrome binary&#10;  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 16 milliseconds&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;EPUALVIW1030&apos;, ip: &apos;10.25.13.158&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;9.0.1&apos;&#10;Driver info: driver.version: ChromeDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+unknown error: cannot find Chrome binary
+  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'EPUALVIW1030', ip: '10.25.13.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: ChromeDriver
+	at com.epam.lab.gmail.AppTest.close(AppTest.java:65)
+</failure>
+    <system-out><![CDATA[INFO com.epam.utils.WebDriverSingelton: create webdriver, thread id : 17
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41) on port 48537
+Only local connections are allowed.
+]]></system-err>
+  </testcase>
+  <testcase name="close" classname="com.epam.lab.gmail.AppTest" time="5.705">
+    <failure message="unknown error: cannot find Chrome binary&#10;  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 36 milliseconds&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;EPUALVIW1030&apos;, ip: &apos;10.25.13.158&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;9.0.1&apos;&#10;Driver info: driver.version: ChromeDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+unknown error: cannot find Chrome binary
+  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 36 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'EPUALVIW1030', ip: '10.25.13.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: ChromeDriver
+	at com.epam.lab.gmail.AppTest.close(AppTest.java:65)
+</failure>
+    <system-out><![CDATA[INFO com.epam.utils.WebDriverSingelton: create webdriver, thread id : 15
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41) on port 7284
+Only local connections are allowed.
+]]></system-err>
+  </testcase>
+  <testcase name="close" classname="com.epam.lab.gmail.AppTest" time="6.283">
+    <failure message="unknown error: cannot find Chrome binary&#10;  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 15 milliseconds&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;EPUALVIW1030&apos;, ip: &apos;10.25.13.158&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;9.0.1&apos;&#10;Driver info: driver.version: ChromeDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+unknown error: cannot find Chrome binary
+  (Driver info: chromedriver=2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'EPUALVIW1030', ip: '10.25.13.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '9.0.1'
+Driver info: driver.version: ChromeDriver
+	at com.epam.lab.gmail.AppTest.close(AppTest.java:65)
+</failure>
+    <system-err><![CDATA[Starting ChromeDriver 2.30.477700 (0057494ad8732195794a7b32078424f92a5fce41) on port 48087
+Only local connections are allowed.
+]]></system-err>
+  </testcase>
+</testsuite>
